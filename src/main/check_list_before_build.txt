@@ -1,0 +1,6 @@
+1) check DB_URL
+2) check bot_token
+3) check todos
+4) delete target
+5) assembly
+6) check MANIFEST file
