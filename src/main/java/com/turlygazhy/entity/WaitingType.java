@@ -34,5 +34,9 @@ public enum WaitingType {
     NAVIKI,
     NAME,
     PHONE_NUMBER,
-    ANSWER_FOR_USER
+    ANSWER_FOR_USER,
+    TASK_TEXT,
+    TASK_DEADLINE,
+    COMMAND,
+    TASK_WORKER
 }

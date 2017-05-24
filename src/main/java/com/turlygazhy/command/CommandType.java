@@ -6,9 +6,12 @@ import com.turlygazhy.exception.NotRealizedMethodException;
  * Created by user on 1/1/17.
  */
 public enum CommandType {
+    HELLO(1),
     SHOW_ALL_GOALS(22),
-    ADD_USER_TO_PRIVATE_GROUP(1),
-    GET_USERS_INVITES(48);
+    ADD_USER_TO_PRIVATE_GROUP(50),
+    GET_USERS_INVITES(48),
+    ADD_NEW_TASK(49),
+    SHOW_TASKS(51);
 
     private final int id;
 
